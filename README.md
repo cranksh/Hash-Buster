@@ -38,6 +38,6 @@ The Hash Buster program provides the following functionality:
 
 5. Follow the on-screen prompts to generate or decrypt MD5 hashes.
 
-Please note that the current version of the Hash Buster program supports only the MD5 hash algorithm.
+Please note that the current version of the Hash Buster program supports only the MD5 hash algorithm. If you would like it to support more alorithms, lmk.
 
 
